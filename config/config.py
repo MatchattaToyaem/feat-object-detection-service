@@ -1,0 +1,9 @@
+CONF = 0.25
+IOU_THRES = 0.45
+IMG_SIZE = 640
+DEVICE = ''
+WEIGHTS = './foot_weights/best.pt'
+AUGMENT = False
+CLASSES = None
+ASNOSTIC_NMS = False
+SAVE_CONF = False
